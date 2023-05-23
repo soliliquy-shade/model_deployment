@@ -6,7 +6,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 import pickle
 
-student = "Betty Wong"
+student = "Samantha Fields-Samotowka"
 
 app = Flask(__name__)
 app.secret_key = "5791628bb0b13ce0c676dfde280ba245"
